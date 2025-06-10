@@ -1,1 +1,2 @@
-# AI-For-Manufacturing-Project
+# AI-for-Manufacturing
+AI internship by intel
